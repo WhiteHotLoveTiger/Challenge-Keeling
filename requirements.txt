@@ -1,0 +1,7 @@
+requests
+responses
+pytest
+psycopg2-binary
+# We're using the psycopg2-binary to keep the docker build times shorter and
+# image sizes smaller. In prod, we'd build the package ourselves and remove
+# unneeded dependencies from the final image.

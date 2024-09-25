@@ -1,0 +1,12 @@
+{
+    "queries": {
+        "paths": {
+            "start": "a",
+            "end": "e"
+        },
+        "cheapest": {
+            "start": "a",
+            "end": "e"
+        }
+    }
+}
